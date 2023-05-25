@@ -20,6 +20,8 @@
 
 ## Vuforia
 
+> [Vuforia .unitypackage](https://developer.vuforia.com/downloads/SDK)
+
 **Crear una aplicación de reconocimiento de imágenes**
 
 * La app debe reconocer la imagen 'pen1' y colocar un borde rojo alrededor de ésta.
