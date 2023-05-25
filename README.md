@@ -10,6 +10,8 @@
 
 * Tenemos que ser capaces de seleccionar la farola. Al hacerlo, aparecerá un cubo semitransparente en la base de ésta para hacer ver que está seleccionada.
 
+* Tenemos que poder mover la farola.
+
 * Al seleccionar la farola, deberá cambiar de color y al deseleccionarla volverá al color original.
 
 * Solo aparecerán las farolas que estén en un plano horizontal. (Avanzado)
